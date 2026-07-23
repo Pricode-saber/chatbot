@@ -1,0 +1,51 @@
+TicketID,CustomerID,Issue,Priority,Status
+TKT001,CUST074,Password reset issue,Medium,Open
+TKT002,CUST081,Payment failed,Low,Open
+TKT003,CUST083,Device not working,Low,Closed
+TKT004,CUST081,Invoice missing,Medium,Closed
+TKT005,CUST059,Invoice missing,Low,In Progress
+TKT006,CUST019,Invoice missing,High,Closed
+TKT007,CUST076,Password reset issue,High,Closed
+TKT008,CUST081,Refund delayed,High,Closed
+TKT009,CUST089,Order not delivered,Low,In Progress
+TKT010,CUST064,Unable to login,High,Open
+TKT011,CUST015,Order not delivered,Low,Closed
+TKT012,CUST074,Refund delayed,Medium,Closed
+TKT013,CUST088,Invoice missing,High,Closed
+TKT014,CUST098,Unable to login,Low,Closed
+TKT015,CUST009,Invoice missing,High,Open
+TKT016,CUST008,Device not working,High,Open
+TKT017,CUST010,Invoice missing,High,Open
+TKT018,CUST017,Refund delayed,High,Closed
+TKT019,CUST033,Invoice missing,Medium,In Progress
+TKT020,CUST028,Device not working,Low,Open
+TKT021,CUST030,Refund delayed,Medium,In Progress
+TKT022,CUST090,Invoice missing,Medium,Open
+TKT023,CUST025,Invoice missing,Low,In Progress
+TKT024,CUST059,Invoice missing,Medium,Open
+TKT025,CUST075,Order not delivered,Medium,Open
+TKT026,CUST091,Order not delivered,Low,Closed
+TKT027,CUST018,Invoice missing,Medium,In Progress
+TKT028,CUST009,Unable to login,High,Open
+TKT029,CUST032,Refund delayed,High,Closed
+TKT030,CUST090,Invoice missing,Medium,Closed
+TKT031,CUST045,Device not working,Low,In Progress
+TKT032,CUST099,Payment failed,Low,In Progress
+TKT033,CUST092,Order not delivered,Medium,Closed
+TKT034,CUST048,Payment failed,Medium,Open
+TKT035,CUST064,Device not working,Medium,Open
+TKT036,CUST077,Payment failed,Low,Open
+TKT037,CUST023,Refund delayed,High,In Progress
+TKT038,CUST023,Device not working,Low,Closed
+TKT039,CUST023,Password reset issue,Medium,Open
+TKT040,CUST032,Invoice missing,High,Closed
+TKT041,CUST054,Refund delayed,Low,Closed
+TKT042,CUST015,Unable to login,High,In Progress
+TKT043,CUST090,Refund delayed,Low,Open
+TKT044,CUST060,Order not delivered,Medium,Closed
+TKT045,CUST060,Refund delayed,Medium,In Progress
+TKT046,CUST007,Device not working,Medium,In Progress
+TKT047,CUST068,Password reset issue,High,Closed
+TKT048,CUST020,Refund delayed,Medium,Closed
+TKT049,CUST056,Device not working,High,In Progress
+TKT050,CUST043,Invoice missing,Low,Open
